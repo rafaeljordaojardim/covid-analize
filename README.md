@@ -77,20 +77,15 @@ pip install $(cat dependencies/pip_dep.txt)
 ## Meta
 Feel free to ask me if you have any doubts or problems with the program =]
 
-Thomas Roquetti – [@ThomasBorgess](https://twitter.com/https://twitter.com/ThomasBorgess) – thomas.mr.borges@gmail.com
-
 Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/ThomasBorges](https://github.com/ThomasBorges)
 
 ## Contributing
 Please, be free to contribute, I'll appreciate it =]
 
-1. Fork it (<https://github.com/ThomasBorges/joker-project/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Create your feature branch (`git checkout -b feature/fooBar`)
+2. Commit your changes (`git commit -am 'Add some fooBar'`)
+3. Push to the branch (`git push origin feature/fooBar`)
+4. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [py-image]: https://img.shields.io/badge/python-v3.7-blue
