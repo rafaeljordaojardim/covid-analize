@@ -1,13 +1,9 @@
-# Sentiments' analyses towards Joker's new movie
+# Sentiments' analyses towards Covid-19
 > Using tweepy to collect tweets, and google cloud's NLP to analyse the sentiments
-
-![Python Version][py-image]
 
 This project started as a playfull way to understand the process of interacting with Apis, collect data, clean it, use natural language process to label it,
 then plot in a way that we can have some conclusions about the data. 
 It endend as a program that automatic collect, clean and language process the data.
-
-![](readme_page/joker.gif)
 
 ## Installation
 Linux Ubuntu 18.04:
@@ -63,10 +59,7 @@ After the final csv is complete, you can use any tool to plot your data. I choos
 
 See how beautiful it became =]
 
-![](readme_page/datastudio-Joker.jpeg)
-
 _You can interact with the plots [here][datastudio]._
-
 
 ## Development setup
 
